@@ -1,3 +1,3 @@
 # submodule-test
 
-This is being changes inside parent module
+This is being changed inside parent module
